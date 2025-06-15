@@ -66,3 +66,8 @@ src/
 - Axios - HTTP client
 - SCSS - CSS preprocessor
 - Vite - Next generation frontend tooling
+
+## Project images
+![Dashboard](https://github.com/user-attachments/assets/22b055aa-18c1-476e-ad85-abfe7d6544d7)
+![User Detail](https://github.com/user-attachments/assets/422edde0-5e11-4c52-9a26-e1ecd58994f0)
+
