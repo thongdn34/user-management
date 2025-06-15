@@ -2,6 +2,8 @@
 
 A modern, responsive Vue.js application for managing and displaying user data with advanced filtering and sorting capabilities.
 
+Live: http://user-management-ochre-six.vercel.app/
+
 ## Features
 
 - 🚀 Built with Vue 3, Pinia, and Vue Router
