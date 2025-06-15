@@ -29,20 +29,6 @@ A modern, responsive Vue.js application for managing and displaying user data wi
 - Secure routing
 - Environment variable management
 
-### Code Quality
-- Type-safe development
-- Consistent code style
-- Modular architecture
-- Reusable components
-- Comprehensive error handling
-
-### Best Practices
-- Component-based architecture
-- Single Responsibility Principle
-- DRY (Don't Repeat Yourself) code
-- Clean and maintainable codebase
-- Proper documentation
-
 ## Project Setup
 
 ```bash
@@ -80,37 +66,3 @@ src/
 - Axios - HTTP client
 - SCSS - CSS preprocessor
 - Vite - Next generation frontend tooling
-
-## Development Guidelines
-
-1. **Component Structure**
-   - Use composition API with `<script setup>`
-   - Keep components small and focused
-   - Implement proper prop validation
-
-2. **State Management**
-   - Use Pinia for global state
-   - Keep store modules focused
-   - Implement proper error handling
-
-3. **Styling**
-   - Use SCSS for better organization
-   - Follow BEM naming convention
-   - Implement responsive design
-
-4. **Performance**
-   - Optimize component re-renders
-   - Implement proper caching
-   - Use lazy loading where appropriate
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-MIT License - feel free to use this project for your own purposes. 
